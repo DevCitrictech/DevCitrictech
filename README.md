@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/antonio-c-0014b428/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/18954804/jacq2101">
+  <a href="https://stackoverflow.com/users/21220924/maria-t-citrictech">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>&nbsp;&nbsp;
 </p>
