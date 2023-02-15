@@ -26,7 +26,7 @@
 
 
 
-<!-- ?? -->
+<!-- como se llama esta seccion ???  -->
 <h2 align="center">Contáctame 👇🏻</h2>
 <p align="center">¡Hola! Soy Maria y estoy interesado en colaborar en proyectos relacionados con programación y tecnología. Si deseas contactarme, puedes encontrarme en:</p>
 <p align="center">
